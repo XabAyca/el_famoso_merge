@@ -15,4 +15,4 @@ Un fichier JS que l'on peut exécuter en lui donnant un fichier en paramètre qu
   
 Je te conseille d'utiliser une class, c'est plus pratique d'avoir des attributs pour pouvoir compter le nombre de comparaisons.  
 # Author
-['https://www.linkedin.com/in/xabi-aycaguer/'](Xabi AYCAGUER)
+![Xabi AYCAGUER](https://www.linkedin.com/in/xabi-aycaguer/)
